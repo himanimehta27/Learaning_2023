@@ -1,8 +1,8 @@
 #include<stdio.h>
 int Bigger(int num1 ,int num2)
-{int larger;
-larger = num1>num2?num1:num2; 
-return larger;}
+{int larg;
+larg = num1>num2?num1:num2; 
+return larg;}
 int main()
 {
   // Variable declaration

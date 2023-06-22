@@ -24,7 +24,7 @@ int main() {
             if (operand2 != 0) {
                 result = operand1 / operand2;
             } else {
-                printf("Error: Division by zero is not allowed.\n");
+                printf("Error: Division by zero  not allowed.\n");
                 return 1; 
             }
             break;
