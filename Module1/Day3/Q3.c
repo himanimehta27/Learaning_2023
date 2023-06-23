@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<stdlib.h>
+#include<string.h>
 
 int findLargestNumber(int num) {
     int largest = 0;
